@@ -11,7 +11,7 @@ AI-powered lost & found pet matching system for Los Angeles (±50 miles).
 ## Run (for developers)
 1. Install dependencies:
    ```bash
-   pip install -r requirements.txt
+   pip3 install -r requirements.txt
    ```
 2. Run FastAPI server:
    ```bash
